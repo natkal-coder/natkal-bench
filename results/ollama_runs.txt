@@ -1,0 +1,9 @@
+run 1 load_ms 112870 prompt_tok 32 prompt_tok/s 9.2 gen_tok 128 gen_tok/s 11.81
+run 2 load_ms 497 prompt_tok 32 prompt_tok/s 152.3 gen_tok 128 gen_tok/s 13.18
+run 3 load_ms 481 prompt_tok 32 prompt_tok/s 150.3 gen_tok 128 gen_tok/s 13.11
+NAME          ID              SIZE      PROCESSOR          CONTEXT    UNTIL               
+gemma4:12b    4eb23ef187e2    7.9 GB    23%/77% CPU/GPU    4096       29 minutes from now    
+p100 run 1 load_ms 12948 prompt_tok/s 13.1 gen_tok 128 gen_tok/s 24.82
+p100 run 2 load_ms 463 prompt_tok/s 167.3 gen_tok 128 gen_tok/s 25.84
+p100 run 3 load_ms 493 prompt_tok/s 169.5 gen_tok 128 gen_tok/s 25.82
+ps gemma4:12b 8062972721 8062972721

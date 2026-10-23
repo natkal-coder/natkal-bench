@@ -1,0 +1,2 @@
+name, memory.total [MiB], power.limit [W], power.max_limit [W], driver_version
+NVIDIA GeForce RTX 4090, 24564 MiB, 450.00 W, 480.00 W, 595.84

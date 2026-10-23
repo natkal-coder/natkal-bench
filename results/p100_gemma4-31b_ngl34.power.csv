@@ -1,0 +1,3 @@
+timestamp, name, power.draw [W], memory.used [MiB], utilization.gpu [%]
+2026/10/22 07:16:02.315, Tesla P100-PCIE-16GB, 27.06 W, 5 MiB, 0 %
+2026/10/22 07:16:02.318, NVIDIA GeForce RTX 3080, 287.71 W, 13669 MiB, 66 %

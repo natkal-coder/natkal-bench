@@ -1,0 +1,7 @@
+llama-bench fa=1 32 pp 0 tg 80.4 tok/s
+llama-bench fa=1 0 pp 128 tg 22.84 tok/s
+llama-bench fa=1 kv q8_0 512 pp 0 tg 385.75 tok/s
+llama-bench fa=1 kv q8_0 0 pp 128 tg 22.09 tok/s
+ollama p100 long-prompt prompt_tok 525 prompt_tok/s 21.8 gen_tok/s 22.71
+ollama p100 long-prompt prompt_tok 525 prompt_tok/s 1506.7 gen_tok/s 23.81
+ollama p100 long-prompt prompt_tok 525 prompt_tok/s 1472.4 gen_tok/s 23.81
