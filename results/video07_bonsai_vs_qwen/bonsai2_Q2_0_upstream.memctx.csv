@@ -1,0 +1,4 @@
+label,ctx,fits,gpu_mem_mib,model_buf_mib,kv_mib,load_s
+bonsai2_Q2_0_upstream,4096,1,8230,,,6
+bonsai2_Q2_0_upstream,16384,1,9010,,,6
+bonsai2_Q2_0_upstream,32768,1,10050,,,6

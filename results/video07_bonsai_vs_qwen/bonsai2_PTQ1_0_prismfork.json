@@ -1,0 +1,222 @@
+[
+ {
+  "i": 1,
+  "gold": 36,
+  "got": 36,
+  "correct": true,
+  "gen_tokens": 106,
+  "seconds": 8.2,
+  "think_chars": 219,
+  "waits": 0,
+  "tok_per_s": 12.94
+ },
+ {
+  "i": 2,
+  "gold": 205,
+  "got": 205,
+  "correct": true,
+  "gen_tokens": 175,
+  "seconds": 12.0,
+  "think_chars": 504,
+  "waits": 0,
+  "tok_per_s": 14.59
+ },
+ {
+  "i": 3,
+  "gold": 15,
+  "got": 15,
+  "correct": true,
+  "gen_tokens": 74,
+  "seconds": 5.8,
+  "think_chars": 253,
+  "waits": 0,
+  "tok_per_s": 12.74
+ },
+ {
+  "i": 4,
+  "gold": 1830,
+  "got": 1830,
+  "correct": true,
+  "gen_tokens": 78,
+  "seconds": 6.0,
+  "think_chars": 121,
+  "waits": 0,
+  "tok_per_s": 12.9
+ },
+ {
+  "i": 5,
+  "gold": 144,
+  "got": 144,
+  "correct": true,
+  "gen_tokens": 104,
+  "seconds": 7.7,
+  "think_chars": 280,
+  "waits": 0,
+  "tok_per_s": 13.59
+ },
+ {
+  "i": 6,
+  "gold": 40,
+  "got": 40,
+  "correct": true,
+  "gen_tokens": 130,
+  "seconds": 9.3,
+  "think_chars": 273,
+  "waits": 0,
+  "tok_per_s": 13.99
+ },
+ {
+  "i": 7,
+  "gold": 120,
+  "got": 120,
+  "correct": true,
+  "gen_tokens": 121,
+  "seconds": 8.8,
+  "think_chars": 166,
+  "waits": 0,
+  "tok_per_s": 13.72
+ },
+ {
+  "i": 8,
+  "gold": 90,
+  "got": 90,
+  "correct": true,
+  "gen_tokens": 90,
+  "seconds": 6.8,
+  "think_chars": 211,
+  "waits": 0,
+  "tok_per_s": 13.21
+ },
+ {
+  "i": 9,
+  "gold": 128,
+  "got": 128,
+  "correct": true,
+  "gen_tokens": 276,
+  "seconds": 18.1,
+  "think_chars": 389,
+  "waits": 0,
+  "tok_per_s": 15.22
+ },
+ {
+  "i": 10,
+  "gold": 228,
+  "got": 228,
+  "correct": true,
+  "gen_tokens": 151,
+  "seconds": 10.7,
+  "think_chars": 466,
+  "waits": 0,
+  "tok_per_s": 14.06
+ },
+ {
+  "i": 11,
+  "gold": 13,
+  "got": 13,
+  "correct": true,
+  "gen_tokens": 152,
+  "seconds": 11.2,
+  "think_chars": 232,
+  "waits": 0,
+  "tok_per_s": 13.51
+ },
+ {
+  "i": 12,
+  "gold": 4,
+  "got": 4,
+  "correct": true,
+  "gen_tokens": 92,
+  "seconds": 7.5,
+  "think_chars": 191,
+  "waits": 0,
+  "tok_per_s": 12.29
+ },
+ {
+  "i": 13,
+  "gold": 4,
+  "got": 4,
+  "correct": true,
+  "gen_tokens": 159,
+  "seconds": 12.4,
+  "think_chars": 258,
+  "waits": 0,
+  "tok_per_s": 12.78
+ },
+ {
+  "i": 14,
+  "gold": 54,
+  "got": 54,
+  "correct": true,
+  "gen_tokens": 126,
+  "seconds": 9.9,
+  "think_chars": 142,
+  "waits": 0,
+  "tok_per_s": 12.7
+ },
+ {
+  "i": 15,
+  "gold": 22,
+  "got": 22,
+  "correct": true,
+  "gen_tokens": 263,
+  "seconds": 19.4,
+  "think_chars": 328,
+  "waits": 0,
+  "tok_per_s": 13.58
+ },
+ {
+  "i": 16,
+  "gold": 1050,
+  "got": 1050,
+  "correct": true,
+  "gen_tokens": 74,
+  "seconds": 6.4,
+  "think_chars": 189,
+  "waits": 0,
+  "tok_per_s": 11.56
+ },
+ {
+  "i": 17,
+  "gold": 180,
+  "got": 180,
+  "correct": true,
+  "gen_tokens": 165,
+  "seconds": 12.8,
+  "think_chars": 459,
+  "waits": 0,
+  "tok_per_s": 12.93
+ },
+ {
+  "i": 18,
+  "gold": 90,
+  "got": 90,
+  "correct": true,
+  "gen_tokens": 81,
+  "seconds": 6.9,
+  "think_chars": 238,
+  "waits": 0,
+  "tok_per_s": 11.71
+ },
+ {
+  "i": 19,
+  "gold": 7,
+  "got": 7,
+  "correct": true,
+  "gen_tokens": 83,
+  "seconds": 7.1,
+  "think_chars": 209,
+  "waits": 0,
+  "tok_per_s": 11.71
+ },
+ {
+  "i": 20,
+  "gold": 25,
+  "got": 25,
+  "correct": true,
+  "gen_tokens": 106,
+  "seconds": 8.7,
+  "think_chars": 309,
+  "waits": 0,
+  "tok_per_s": 12.22
+ }
+]

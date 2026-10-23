@@ -1,0 +1,9 @@
+{
+ "label": "qwen38_IQ3_S_upstream",
+ "n": 40,
+ "passed": 35,
+ "pass_at_1": 0.875,
+ "errors": 0,
+ "total_gen_tokens": 26922,
+ "total_seconds": 2847.8
+}

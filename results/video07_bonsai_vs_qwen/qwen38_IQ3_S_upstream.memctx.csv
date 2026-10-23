@@ -1,0 +1,4 @@
+label,ctx,fits,gpu_mem_mib,model_buf_mib,kv_mib,load_s
+qwen38_IQ3_S_upstream,4096,1,11910,,,6
+qwen38_IQ3_S_upstream,16384,1,12690,,,6
+qwen38_IQ3_S_upstream,32768,1,13730,,,8

@@ -1,0 +1,9 @@
+{
+ "label": "qwen38_Q2_K_XL_upstream",
+ "n": 40,
+ "passed": 36,
+ "pass_at_1": 0.9,
+ "errors": 0,
+ "total_gen_tokens": 23451,
+ "total_seconds": 2350.1
+}

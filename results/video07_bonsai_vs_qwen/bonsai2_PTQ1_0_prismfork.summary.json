@@ -1,0 +1,11 @@
+{
+ "label": "bonsai2_PTQ1_0_prismfork",
+ "correct": 20,
+ "errors": 0,
+ "n": 20,
+ "total_gen_tokens": 2606,
+ "total_seconds": 195.7,
+ "avg_tok_per_s": 13.32,
+ "total_waits": 0,
+ "waits_per_problem": 0.0
+}

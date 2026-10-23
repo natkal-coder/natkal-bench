@@ -1,0 +1,67 @@
+[
+ {
+  "i": 1,
+  "want": "get_weather",
+  "call": {
+   "name": "get_weather",
+   "args": {
+    "city": "Lisbon",
+    "unit": "celsius"
+   }
+  },
+  "ok": true,
+  "seconds": 15.0,
+  "content": ""
+ },
+ {
+  "i": 2,
+  "want": "convert_currency",
+  "call": {
+   "name": "convert_currency",
+   "args": {
+    "amount": 250,
+    "from_currency": "EUR",
+    "to_currency": "JPY"
+   }
+  },
+  "ok": true,
+  "seconds": 9.5,
+  "content": ""
+ },
+ {
+  "i": 3,
+  "want": "create_reminder",
+  "call": {
+   "name": "create_reminder",
+   "args": {
+    "text": "Call the dentist",
+    "when": "2026-11-03T09:30:00"
+   }
+  },
+  "ok": true,
+  "seconds": 20.1,
+  "content": ""
+ },
+ {
+  "i": 4,
+  "want": "search_files",
+  "call": {
+   "name": "search_files",
+   "args": {
+    "directory": "/var/log",
+    "extension": "log"
+   }
+  },
+  "ok": true,
+  "seconds": 9.6,
+  "content": ""
+ },
+ {
+  "i": 5,
+  "want": null,
+  "call": null,
+  "ok": true,
+  "seconds": 4.0,
+  "content": "Hello! How can I help you today?"
+ }
+]

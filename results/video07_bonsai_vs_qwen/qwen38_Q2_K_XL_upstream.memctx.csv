@@ -1,0 +1,4 @@
+label,ctx,fits,gpu_mem_mib,model_buf_mib,kv_mib,load_s
+qwen38_Q2_K_XL_upstream,4096,1,9924,,,7
+qwen38_Q2_K_XL_upstream,16384,1,10704,,,6
+qwen38_Q2_K_XL_upstream,32768,1,11744,,,6

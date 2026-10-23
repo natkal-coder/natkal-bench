@@ -1,0 +1,11 @@
+{
+ "label": "qwen38_Q4_K_M_ngl40_upstream",
+ "correct": 20,
+ "errors": 0,
+ "n": 20,
+ "total_gen_tokens": 3239,
+ "total_seconds": 826.6,
+ "avg_tok_per_s": 3.92,
+ "total_waits": 0,
+ "waits_per_problem": 0.0
+}

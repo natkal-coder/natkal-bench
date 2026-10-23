@@ -1,0 +1,9 @@
+{
+ "label": "bonsai2_PTQ1_0_prismfork",
+ "n": 40,
+ "passed": 35,
+ "pass_at_1": 0.875,
+ "errors": 0,
+ "total_gen_tokens": 27305,
+ "total_seconds": 1934.2
+}

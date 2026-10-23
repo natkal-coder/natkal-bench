@@ -1,0 +1,11 @@
+{
+ "label": "qwen38_IQ3_S_upstream",
+ "correct": 20,
+ "errors": 0,
+ "n": 20,
+ "total_gen_tokens": 3845,
+ "total_seconds": 419.1,
+ "avg_tok_per_s": 9.17,
+ "total_waits": 0,
+ "waits_per_problem": 0.0
+}

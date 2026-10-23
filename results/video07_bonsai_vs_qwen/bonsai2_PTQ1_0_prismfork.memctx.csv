@@ -1,0 +1,4 @@
+label,ctx,fits,gpu_mem_mib,model_buf_mib,kv_mib,load_s
+bonsai2_PTQ1_0_prismfork,4096,1,6686,,,7
+bonsai2_PTQ1_0_prismfork,16384,1,7466,,,6
+bonsai2_PTQ1_0_prismfork,32768,1,8506,,,9
